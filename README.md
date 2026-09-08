@@ -2,10 +2,10 @@
 
 Three complete static landing-page designs for review.
 
-- [Review all designs](index.html)
-- [V1: The Private Consultation](variations/v1-private-consultation.html)
-- [V2: Clinical Clarity](variations/v2-clinical-clarity.html)
-- [V3: Considered](variations/v3-considered.html)
+- [Review all designs](preview-0dde27ff25a4.html)
+- [V1: The Private Consultation](variations/v1-private-consultation-0dde27ff25a4.html)
+- [V2: Clinical Clarity](variations/v2-clinical-clarity-0dde27ff25a4.html)
+- [V3: Considered](variations/v3-considered-0dde27ff25a4.html)
 
 Forms run in local preview mode and do not submit data. Live form routing and the thank-you destination still need to be connected and tested before patient acquisition.
 
